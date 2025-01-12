@@ -13,7 +13,6 @@
 <br/>
 🔥 A tech enthusiast passionate about bridging the gap between technology and real-world challenges.
 <br/>
-<br/>
 💡 I thrive on creating innovative solutions that make a difference.
 <br/>
 <br/>
@@ -21,7 +20,6 @@
 <br/>
 <br/>
 🛠️ Build scalable <b>full-stack applications</b> with a focus on usability and performance.
-<br/>
 <br/>
 🤝 Like to Collaborate on <b>open-source projects</b> to give back to the tech community.
 
