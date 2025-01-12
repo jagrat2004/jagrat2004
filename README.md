@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm JAGRAT</h1>
 <h3 align="center">A Passionate Developer and Problem Solver.</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagrat2004&label=Profile%20views&color=0e75b6&style=flat" alt="jagrat2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagrat2004" alt="jagrat2004" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1736698705~exp=1736702305~hmac=6937056e2856abb686c702f44513ddd59b40df87decd00fc418043614f64f6c3&w=996"/>
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/version-control-concept-illustration_114360-3249.jpg?t=st=1736702189~exp=1736705789~hmac=594adc23cb468eb72d41b15de335bbcc73c8260c01cfa9cd83904c7e25a92c09&w=740"/>
 
 
 <b>👨‍💻 About Me</b>
@@ -27,5 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagrat2004&show_icons=true&locale=en" alt="jagrat2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagrat2004&" alt="jagrat2004" /></p>
+
+
 
 
