@@ -43,4 +43,4 @@
 
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /> </div>
 
-<p align="center"> <a href="https://github.com/jagrat2004?tab=repositories" target="_blank"> <img src="https://img.shields.io/badge/GitHub%20Repos-00FFFF?style=for-the-badge&logo=github&logoColor=black" /> </a> <a href="https://github.com/jagrat2004/Patient-Document-Management-Portal" target="_blank"> <img src="https://img.shields.io/badge/Patient%20Portal-00FFFF?style=for-the-badge&logo=react&logoColor=black" /> </a> <a href="https://github.com/jagrat2004?tab=repositories&q=3D" target="_blank"> <img src="https://img.shields.io/badge/3D%20Portfolio-00FFFF?style=for-the-badge&logo=three.js&logoColor=black" /> </a> </p>
+<p align="center"> <a href="https://github.com/jagrat2004?tab=repositories" target="_blank"> <img src="https://img.shields.io/badge/GitHub%20Repos-00FFFF?style=for-the-badge&logo=github&logoColor=black" /> </a> 
