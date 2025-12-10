@@ -33,7 +33,7 @@
 
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=39FF14&vCenter=true&width=300&height=60&lines=🎨+Frontend" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=39FF14&vCenter=true&width=300&height=60&lines=Frontend" />
 </div>
 
 <p>
@@ -41,21 +41,21 @@
 </p>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=39FF14&vCenter=true&width=300&height=60&lines=⚙️+Backend" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=39FF14&vCenter=true&width=300&height=60&lines=Backend" />
 </div>
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" height="48" />
 </p>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=39FF14&vCenter=true&width=350&height=60&lines=🗄️+Databases" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=39FF14&vCenter=true&width=350&height=60&lines=Databases" />
 </div>
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="48" />
 </p>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=39FF14&vCenter=true&width=300&height=60&lines=🤖+AI+/+ML" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=39FF14&vCenter=true&width=300&height=60&lines=AI+/+ML" />
 </div>
 
 <p>
@@ -63,7 +63,7 @@
 </p>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=39FF14&vCenter=true&width=300&height=60&lines=🧰+Tools" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=39FF14&vCenter=true&width=300&height=60&lines=Tools" />
 </div>
 
 
