@@ -7,7 +7,7 @@
 <!-- ================================================================= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=2500&pause=600&color=FF3B30&center=true&vCenter=true&width=900&height=80&lines=Hello+World!+I'm+Jagrat+Agrawal+👋;Full+Stack+Developer+%7C+MERN+Engineer+🚀;ML+Learner+%7C+Python+Developer+🐍;Let's+Build+Awesome+Stuff!+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=2500&pause=600&color=FF3B30&center=true&vCenter=true&width=900&height=80&lines=Hello+World!+I'm+Jagrat+Agrawal+👋;Full+Stack+GEN+AI+Developer+%7C+MERN+Engineer+🚀;AIML+Engineer+%7C+Python+Developer+🐍;Let's+Build+Awesome+Stuff!+✨" />
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="800">
 <br><br>
 </div>
