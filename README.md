@@ -113,6 +113,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagrat2004&theme=dark&hide_border=true&background=0d1117&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagrat2004&theme=github_dark&animation=draw" width="100%"/>
+</div>
+
 <!-- ================================================================= -->
 <!-- 🎮 MARIO BUTTON -->
 <!-- ================================================================= -->
