@@ -110,7 +110,7 @@
 <!-- ================================================================= -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagrat2004&custom_title=Jagrat's%20Contribution%20Graph&bg_color=0d1117&color=FF3B30&line=FF3B30&point=FF3B30&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jagrat2004&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF3B30&icon_color=FF3B30&text_color=ffffff" />
 </div>
 
 <!-- ================================================================= -->
