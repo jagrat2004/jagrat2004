@@ -110,7 +110,7 @@
 <!-- ================================================================= -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagrat2004&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF3B30&icon_color=FF3B30&text_color=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagrat2004&theme=dark&hide_border=true&background=0d1117&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30" />
 </div>
 
 <!-- ================================================================= -->
